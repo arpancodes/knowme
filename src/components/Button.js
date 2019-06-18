@@ -5,6 +5,7 @@ const Button = props => (
   <a
     style={{ backgroundColor: props.color }}
     target="_blank"
+    rel="noopener noreferrer"
     href={`https://www.${props.link}/${props.username}`}
   >
     <i className={`fab fa-${props.icon}`} />
