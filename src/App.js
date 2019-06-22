@@ -71,7 +71,7 @@ function App() {
           link="upwork.com"
           username="freelancers/~01f994f6b8bd6e7528"
         >
-          upwork
+          Upwork
         </Button>
       </div>
     </div>

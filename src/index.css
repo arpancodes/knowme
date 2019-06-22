@@ -5,10 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: #3498db;
-  color: white; */
+  background-color: #fafafa;
+  text-transform: uppercase;
+  color: white;
 }
-
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px 0 rgb(100, 100, 100), -1px -1px 0 rgb(53, 49, 49);
+  text-decoration: underline;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
